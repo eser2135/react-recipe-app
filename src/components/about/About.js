@@ -17,11 +17,10 @@ const About = () => {
         </h1>
       </HeaderContainer>
       <InfoContainer>
-        <h1>I'm Eser.</h1>
-        <h2>I’m currently juniour Full-Stack Developer.</h2>
+        <h1>I'm Eser Akkurt.</h1>
+        <h2>I’m currently learning Full-Stack Development Languages.</h2>
         <h2>
-          I've already known JS, ReactJS, Django, HTML-CSS,SQL, PostgreSQL
-          Python, Bootsrap .
+          I've already known JS, ReactJS, ReactNative,  Django, HTML-CSS, SQL, PostgreSQL Python, Bootsrap, AWS Services.
         </h2>
         <h2>
           <a href="mailto:eser.akkurt@gmail.com">Send email</a> :
