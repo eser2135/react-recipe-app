@@ -18,7 +18,7 @@ const About = () => {
       </HeaderContainer>
       <InfoContainer>
         <h1>I'm Eser Akkurt.</h1>
-        <h2>I’m currently learning Full-Stack Development Languages and Other tools.</h2>
+        <h2>I’m currently learning Full-Stack Development Languages.</h2>
         <h2>
           I've already known JS, ReactJS, ReactNative,  Django, HTML-CSS, SQL, PostgreSQL Python, Bootsrap, AWS Services.
         </h2>
